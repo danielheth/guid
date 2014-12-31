@@ -1,0 +1,3 @@
+*.log
+*.substvars
+.DS_Store

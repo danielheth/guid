@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 31 Dec 2014 09:02:59 -0800
+Source: guid
+Binary: guid
+Architecture: source all
+Version: 0.1
+Distribution: trusty
+Urgency: low
+Maintainer: Daniel H Moran, <danielheth@hotmail.com>
+Changed-By: Daniel H Moran <danielheth@hotmail.com>
+Description: 
+ guid       - Truly globally unique id generator.
+Closes: 20141231
+Changes: 
+ guid (0.1) trusty; urgency=low
+ .
+   * Initial release. (Closes: #20141231)
+Checksums-Sha1: 
+ ce148f01a118e762953b604779bae0fc0bc4587c 500 guid_0.1.dsc
+ e2427a4328585a0a9cd26171b5f28fd6c108b7b2 2264 guid_0.1.tar.gz
+ cfbdb2fb76b5f454c208a3455afe422a113e597d 2654 guid_0.1_all.deb
+Checksums-Sha256: 
+ e14bdf5aa438c03355eff63bb37d9d714b04b0fb9a6a1f3680306b1a9614548a 500 guid_0.1.dsc
+ 38d94495b5c00daa9689b6643477edb560973cf05620724f5dccc073ce234a59 2264 guid_0.1.tar.gz
+ a90139f92a45b215ee232203df021a3a6d207903b1c0374a92d05ea301f21276 2654 guid_0.1_all.deb
+Files: 
+ 5b5afe4bd72d83c97487fce775685466 500 python optional guid_0.1.dsc
+ b035e3918d4cb387fc9cc3e1346a15dd 2264 python optional guid_0.1.tar.gz
+ 63e5dd84ba777bc0469c2bce5fca5a3f 2654 python optional guid_0.1_all.deb

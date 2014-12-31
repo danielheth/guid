@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Wed, 31 Dec 2014 09:02:59 -0800
+Source: guid
+Binary: guid
+Architecture: source
+Version: 0.1
+Distribution: trusty
+Urgency: low
+Maintainer: Daniel H Moran, <danielheth@hotmail.com>
+Changed-By: Daniel H Moran <danielheth@hotmail.com>
+Description: 
+ guid       - Truly globally unique id generator.
+Closes: 20141231
+Changes: 
+ guid (0.1) trusty; urgency=low
+ .
+   * Initial release. (Closes: #20141231)
+Checksums-Sha1: 
+ 6120337c08a59a20636cbd95c1ff0819151abe62 1021 guid_0.1.dsc
+ 79a179c0588df8de149d863dd7029e0c64e7381d 2266 guid_0.1.tar.gz
+Checksums-Sha256: 
+ 4fd576dd71660c55746895e13a201e91820365d99ccd900cd01b5fd1ed3b32b2 1021 guid_0.1.dsc
+ 07d6fd56358c893dc5228f32c72b8904f5e8c6c28fbe2538717fd2724a51e7d7 2266 guid_0.1.tar.gz
+Files: 
+ f1c5f4b6c8ba492377ae11da03c6968e 1021 python optional guid_0.1.dsc
+ cd3b02da9e31081fe6f0d81706f2f3a7 2266 python optional guid_0.1.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJUpFhqAAoJECc0IS9ZAZbfAyIIAIxSBbvLyuvdXKeqXr4moGz2
+lVJTmlQq9F6DuM8VeRvpYawhOTq4FAh3VGlWCxcWZ2BxKaozYW9o7UNRZA8G59zm
+JVn+RBuXW2w0ea0LjiJBTPHYdBxm8NRyzyCnHuygmJhFGeJCHp77SE5CrOl0VElw
+c8Fe9Za80kUcqrbl+2fRnstUHOmX90nA1R/ecAvuZ30yLmAuf01pLKdFE3Rhs3UK
+S2Q0cTmrGSZ6sf7QhK8UEbmSxyWmrum8mSJQtVt4p1dXPAYrbfofztjE2cbg5SJI
+N0tG1H5eSYdg4mLdYGCJ1Hl47IfC0pyqCpunQDTJw3iWrPJEsO8M0JNMTZSN0KU=
+=UmIN
+-----END PGP SIGNATURE-----
