@@ -1,3 +1,9 @@
+guid (0.2) trusty; urgency=low
+
+  * Changed default guid server to localhost
+
+ -- Daniel H Moran <danielheth@hotmail.com>  Wed, 31 Dec 2014 12:11:52 -0800
+
 guid (0.1) trusty; urgency=low
 
   * Initial release. (Closes: #20141231)

@@ -12,20 +12,20 @@ Build-Depends: debhelper (>= 7), python (>= 2.6.6-3~)
 Package-List: 
  guid deb python optional
 Checksums-Sha1: 
- 60f41494686dab1f7f96f34e535e75ef34f5d4cc 2261 guid_0.1.tar.gz
+ 37ca4074ec2068ee74a5cf9b6e3e088d0384dca9 2229 guid_0.1.tar.gz
 Checksums-Sha256: 
- c437b5ac76293591b79b3ce682fa142f4a1b2a154cb003ce1b537ec827b418fb 2261 guid_0.1.tar.gz
+ d37aa10b18cdf4e8f989030514c6e46d008f797184e2d764282618c575163f85 2229 guid_0.1.tar.gz
 Files: 
- d24f9e189f0f250687982880c4b7f42f 2261 guid_0.1.tar.gz
+ fa0dcbb1333c079a174c2701af0f64ab 2229 guid_0.1.tar.gz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJUpGdHAAoJECc0IS9ZAZbf6y8IALdNcYzLmvO8kb6t2k+RkK0j
-BDds4x3fTcFMDOvctx+fEl8x6VS7mdVFD80+RiIF42e9nfFCsJb8HbyCdFIhI7d8
-fPqPmxRn5OG9ZcZMG2Lm8OOL4QT8CsqWJ31h/bwnJ7K9TuO61jVbkPqVnM13HO4h
-YBWxTaF0Yo/L7HHrnvBfSska3BLsDydRmWU/iX5mM/S34RvmKoiAAETdFCSkT+ep
-RN+OkuUNgGQ+sNRa+vtg6bymRsFm/r/uJ3brqV3d9Ojoi5Xyy5XvqVMOtxcFjsan
-I1vM9PYPdAXpkl5aZZlBLongfGr26w5YC3J+FqxM1PQxT49Yk8IvG/16wOetLCI=
-=1J79
+iQEcBAEBAgAGBQJUpG1FAAoJECc0IS9ZAZbfxNoH/RnNKmgvRHkdbPFBkJdvIO+v
+QrgvVMXuWDnfANfczBkk05zk4ZUDypcQceFVpt2fHAH3YVmI85XR+ROrifvCYncw
+pIlgCcdh3mtjZlvXznirX3azZjEFbPKE3WHdVBQZ4sd/bdM0+pYB7H0AbFpQyv+0
+W2zb+7/5ahd3O2CFYLaxMv/hIiKsc/7ftkq6s/PWl+nii8W4YjKGb2rDXHYBGSy2
+Tib70/flska6YLjbTtjKkYW/UbTWElz8vqgUbY2o8/Ncxov5jzNtFzqsKVCOSIkk
+EVgjjh+CZ9v7wGf2neRnS+tay79N44x5iWaywrpsU3FY/Qdx5ckX+DPF/LN+Llg=
+=FDx1
 -----END PGP SIGNATURE-----
