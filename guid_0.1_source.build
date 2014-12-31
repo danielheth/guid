@@ -3,19 +3,19 @@ dpkg-buildpackage: source package guid
 dpkg-buildpackage: source version 0.1
 dpkg-buildpackage: source distribution trusty
 dpkg-buildpackage: source changed by Daniel H Moran <danielheth@hotmail.com>
- dpkg-source --before-build guid-0.2
+ dpkg-source --before-build src
  fakeroot debian/rules clean
 dh clean --with python2
    dh_testdir
    dh_auto_clean
    dh_clean
- dpkg-source -b guid-0.2
+ dpkg-source -b src
 dpkg-source: info: using source format `3.0 (native)'
 dpkg-source: info: building guid in guid_0.1.tar.gz
 dpkg-source: info: building guid in guid_0.1.dsc
  dpkg-genchanges -S >../guid_0.1_source.changes
 dpkg-genchanges: including full source code in upload
- dpkg-source --after-build guid-0.2
+ dpkg-source --after-build src
 dpkg-buildpackage: source only upload: Debian-native package
 Now running lintian...
 Finished running lintian.
