@@ -1,0 +1,25 @@
+
+# set this to 0 to disable guidd, remove or set anything else to enable it
+# you can temporarily override this with
+# sudo service guid start force=1
+enabled=1
+
+# Location of the configuration file
+conffile=/etc/guid.conf
+
+
+# IP address to bind to. Defaults to all IP addresses
+# ip=127.0.0.1
+
+# TCP port to bind to. Defaults to port 561.
+# multiple instances of guid can be started by putting several ports coma separated
+# Ex:
+# port=561,562,563
+# or
+# port=561 #Default
+
+# The log level to be used.
+# Possible values are: debug, info, warning, error, critical or notset.
+# More on that at http://docs.python.org/library/logging.html. It defaults to warning.
+# level=warning
+

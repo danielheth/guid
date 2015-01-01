@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 31 Dec 2014 12:11:52 -0800
+Source: guid
+Binary: guid
+Architecture: source all
+Version: 0.2
+Distribution: trusty
+Urgency: low
+Maintainer: Daniel H Moran, <danielheth@hotmail.com>
+Changed-By: Daniel H Moran <danielheth@hotmail.com>
+Description: 
+ guid       - Truly globally unique id generator.
+Changes: 
+ guid (0.2) trusty; urgency=low
+ .
+   * Changed default guid server to localhost
+Checksums-Sha1: 
+ c1c3b10b7cb2ef6b63e899eb959b5f22def2e262 627 guid_0.2.dsc
+ 35a994cc79be00cc6d7b1ac8037d92a29549e3a1 5083 guid_0.2.tar.gz
+ 341a9162d2787c9549ebbbc58ed93890203cb003 5042 guid_0.2_all.deb
+Checksums-Sha256: 
+ 5f7b1b8458137aa54d25ea55b58db9fecf07fceceaa80efdb573e713f10a6f40 627 guid_0.2.dsc
+ 33695573adace042ab0acf5bedf50a379fa0b25e049f85e42164d5436a897479 5083 guid_0.2.tar.gz
+ 15fc297af7c59cc8195708e66a1825172578a4c6d3712cbc3d9d17498da26760 5042 guid_0.2_all.deb
+Files: 
+ 1cb462a0fe7cbfb843cc32fe2f098a7d 627 python optional guid_0.2.dsc
+ 650d884bd0bd422f566911b138ec7c74 5083 python optional guid_0.2.tar.gz
+ 7f30279401eeb3255483f5283b900cc0 5042 python optional guid_0.2_all.deb

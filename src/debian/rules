@@ -1,4 +1,14 @@
 #!/usr/bin/make -f
+# -*- makefile -*-
+#
 
 %:
 	dh $@ --with python2
+
+binary-common:
+	dh_installinit
+
+
+#override_dh_installinit:
+	dh_installinit --onlyscripts
+

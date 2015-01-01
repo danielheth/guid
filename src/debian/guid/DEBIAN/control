@@ -1,0 +1,13 @@
+Package: guid
+Version: 0.2
+Architecture: all
+Maintainer: Daniel H Moran, <danielheth@hotmail.com>
+Installed-Size: 10
+Depends: python:any
+Section: python
+Priority: optional
+Homepage: https://danielheth.com
+Description: Truly globally unique id generator.
+ This daemon and client provides an easy way of creating guids.
+ .
+ Creating truly unique ids is now more fun than ever!

@@ -1,0 +1,16 @@
+description "guidd"
+author "danielheth@hotmail.com"
+
+
+start on runlevel [2345]
+stop on runlevel [016] or unmounting-filesystem
+
+env port=561
+
+pre-start script
+    [ -r /etc/default/guid ] && . /etc/default/guid
+    
+    for p in `echo ${port} | tr ',' ' '`; do
+        guidd PORT=$p
+    done
+end script
