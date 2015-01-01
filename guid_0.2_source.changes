@@ -18,23 +18,23 @@ Changes:
  .
    * Changed default guid server to localhost
 Checksums-Sha1: 
- c820efba9667e81b54f0f00bdede991405158532 1021 guid_0.2.dsc
- 50f75b7a5f162f57d8a584c59664df254dfd567c 2261 guid_0.2.tar.gz
+ e146f30f5118fc757e0e1944df87ee117f0b4bb1 1148 guid_0.2.dsc
+ 4602c59b3fe36044d1ba73b65d46a13060948c79 4913 guid_0.2.tar.gz
 Checksums-Sha256: 
- 0d5d409e03825576eacd3320b3fe6b1d8880fbf5c5f73d6ec31fc36f920d82e8 1021 guid_0.2.dsc
- 211948292d6bbde8f09e478dca835508912ae8cfb80520e7dc9d10a1e904f1cc 2261 guid_0.2.tar.gz
+ 3033e90303aef10e743f112c05d36db8a5490cc8f9ec1e83edd6df9747d9bc0a 1148 guid_0.2.dsc
+ 7ef9b5123d165b7e8c9919011c335be982103266f4adc91c7c596b9e3b6217e1 4913 guid_0.2.tar.gz
 Files: 
- 8f4c5fe3da3d563e0e1db72f5fc770f8 1021 python optional guid_0.2.dsc
- 92cc85d65661a136305d2897486d00eb 2261 python optional guid_0.2.tar.gz
+ 5141cd0f2734f6ad0148122de87b24b5 1148 python optional guid_0.2.dsc
+ f5fa93b2a17e9f44035d56552c2b7188 4913 python optional guid_0.2.tar.gz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJUpHIzAAoJECc0IS9ZAZbf0bsH/jASUjpsr7rpzwPiXQF2wglv
-AgQXbONJn8iRVX+k+CqfAncKz+09b9r4ClQis9D9maKkH1gQDnxYdeK7kGhyEx3R
-26Jx5JORYPambnGqv8NZtDTYqHGLHvofSgWGtMFQxWpnZpWMKo7iqvnygRAbDCUl
-gD43O/f5E22cRHHqdAmwosRi08EaVgeqwDmBfo3YC9faoJla+f9tp0Sj5ctMMfP4
-c8ujriLzZBkB7Eg8pHBEcpu1+bJgvKtmKRWoAB19yN68oJaXqqlljswg1PzXSkvA
-BHu/RoIMAL+RXsNzJnNzu9Vqdi20hDXBrZS/Q6b8PBbWnB5Aj3aSD5dsON56N0w=
-=v2mn
+iQEcBAEBAgAGBQJUpKMgAAoJECc0IS9ZAZbfqQcH/0cLlX6X8mm4xsQvTDgZ8dz9
+9DHdF73l+hIJFAa27PmDJw6F2zmTHZBl7EEg95x3/wwuolYS+R2LZZdkNXfxol7g
+ZanxtOyUFJ/wM2bn1/ehFRPpUYP8gyuniFCmYyaAuclDiP4NsMEfIIXBVuW1sxQ8
+5yjyNoQ5sLHBMRViotSxn/DlnnjRwgWjt6lAkshPA85DN2gKjbOPv0FbtMHTq3cL
+yFsyw7giYal5nWr/m2CBg5rhib7A0muWsslfV5vKC8sP4KI2wubcsYlw2Mfhvus3
+VwaKDrHF5rRnoszkc44kg5RPF7HhPvPR0TV9iA5edSBSrRO59m/ANHyIk+442F0=
+=9q5Y
 -----END PGP SIGNATURE-----

@@ -1,3 +1,9 @@
+guid (0.3) trusty; urgency=low
+
+  * Added daemon code
+
+ -- Daniel H Moran <danielheth@hotmail.com>  Wed, 31 Dec 2014 17:30:43 -0800
+
 guid (0.2) trusty; urgency=low
 
   * Changed default guid server to localhost
